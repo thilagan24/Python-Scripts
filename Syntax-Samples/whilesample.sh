@@ -1,0 +1,19 @@
+
+
+declare -i x
+
+x=1
+
+
+while [[ x -le 20 ]];
+
+	do
+
+		echo "$x"
+
+		x=$x+1;
+
+done
+
+
+ 
